@@ -1,0 +1,9 @@
+Verasonics Experimental data 
+There are two files containing beamformed data.
+You have to compute resolution from the resolution data and contrast from the contrast data.
+
+Experimental acquisition parameters are as follows
+1. Focus is at 20 mm depth
+2. 64 elements were excited during the transmit and 128 elements were used for data acquisition during the receive.
+3. Sampling frequency = 19.2308 MHz
+4. Transmit frequency = 5 MHz

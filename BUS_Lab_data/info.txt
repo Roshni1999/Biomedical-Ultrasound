@@ -1,0 +1,10 @@
+BUS lab developed system Experimental data. 
+There is a single file containing beamformed data.
+You have to compute resolution from the data at different depths.
+
+Experimental acquisition parameters are as follows
+1. Focus is at 20 mm depth
+2. Sampling frequency=32 MHz
+3. Transmit frequency= 2.44 MHz
+
+Assume Speed of sound = 1540 m/s

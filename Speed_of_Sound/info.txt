@@ -1,0 +1,20 @@
+Experimental data for measuring the following parameters.
+
+1)Speed of sound, (m/s)
+2) Acoustic Impedance (Kg/m2 s)
+3) Attenuation (dB/cm/MHz)
+
+
+Details of the tissue mimicking Phantom used for experiment:
+
+Cylindrical phantom was used for the experiment with following characteristics
+1. Height of phantom (=9.1 mm)  [direction of ultrasound propagation]
+2. Radius of phantom = 15 mm or 1.5 cm
+3. Mass of phantom= 6.52 grams
+
+
+Experimental acquisition parameters are as follows:
+
+1. Sampling frequency=100 MHz
+2. Transmit frequency= 5 MHz
+Remaining parameters are available in the excel data file.
