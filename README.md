@@ -1,6 +1,6 @@
 # Biomedical-Ultrasound
 
-Experiments conducted as part of Advanced BME Lab (AM5019) during December 2021.
+Experiments conducted as part of Advanced BME Lab (AM5019) during December 2021 & January 2022.
 
 ## EXPERIMENT 1: Estimate the resolution and contrast of an Ultrasound System
 OBJECTIVES: <br/>
