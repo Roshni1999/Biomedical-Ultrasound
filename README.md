@@ -14,7 +14,7 @@ Estimate the practical axial and lateral resolution values from a simulation of 
 
 ## EXPERIMENT 3: Speed of sound measurement in a tissue phantom using an ultrasound probe.
 OBJECTIVES: <br/>
-i. To find the speed of sound (m/s) in a tissue mimicking phantom using an ultrasound probe. <br/>
+i. Find the speed of sound (m/s) in a tissue mimicking phantom using an ultrasound probe. <br/>
 ii. Calculate the Acoustic Impedance (kg/m2s). <br/>
 iii. Calculate the Amplitude Attenuation Coefficient (dB/cm-1MHz-1). <br/>
 
